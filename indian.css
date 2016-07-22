@@ -1,6 +1,6 @@
 body{
+background: url('background-14.jpg');
 
-  background-color:#00ffbf;
   font-family: sans-serif;
   color: white;
 
@@ -20,15 +20,18 @@ background-color: green;
   height: 120px;
   padding: 0px;
 }
+
 .box h3,h4{
   text-align: center;
   top: 50px;
   padding-bottom: 0px;
+  color: blueviolet;
 }
 
 .box1 h1,h4{
   text-align: center;
   top: 50px;
+  color: blueviolet;
 }
 
 blockquote p{
@@ -92,6 +95,7 @@ header h2{
   color: black;
 }
 
+
 .grid_3 p{
   font-style: italic;;
   text-align: left;
@@ -104,6 +108,12 @@ header h2{
   font-weight: lighter;
   font-family: sans-serif;
   margin-left: 10px;
+color: darkgreen;
+}
+
+.grid_4 h6{
+  color: black;
+  font-size: 20px;
 }
 
 
